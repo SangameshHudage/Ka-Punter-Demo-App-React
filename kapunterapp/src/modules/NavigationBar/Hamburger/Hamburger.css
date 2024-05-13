@@ -1,0 +1,50 @@
+*{
+    margin: 0;;
+    box-sizing: 0;
+}
+
+.Icon-Hamburger{
+    border: 2px solid red;
+    background-color: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    align-items: center;
+    justify-content: center;
+}
+.Icon-Hamburger-div{
+    background: #65278b;
+    height: 3px;
+    width: 1rem;
+}
+
+/* .Burger-Menu{
+    width: 30%;
+    height: 100vh;
+    background-color: rgba(242, 237, 237, 0.783);
+    position: absolute;
+    top: 0;
+    z-index: -2;
+    color: rgb(237, 69, 69);
+    padding: 5vh;
+} */
+
+/* ------------- sliding menu ------------- */
+/* .hidden {
+    display: none;
+}
+
+.visible {
+    display: inherit;
+} */
+
+
+
+
+
+
+
+
