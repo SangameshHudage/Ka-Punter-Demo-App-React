@@ -1,0 +1,8 @@
+.Banner-Main-Container{
+    background-color: #0E0C0C;
+    overflow-y: scroll;
+    height: 65vh;
+    border-radius: 20px 20px 0 0;
+    scrollbar-color: #242223 #242223;
+    color: white;
+}

@@ -1,0 +1,22 @@
+.Navbar-Container{
+    padding: 10px;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
+
+.Navbar-right{
+    display: flex;
+    gap: 5px;
+    align-items: end;
+    justify-content: flex-end;
+}
+
+.Navbar-Container button{
+    border: none;
+    color: #6f02b4;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 6px 11px;
+    border-radius: 5px;
+}
